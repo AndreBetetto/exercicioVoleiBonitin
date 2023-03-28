@@ -1,0 +1,15 @@
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/bin/Debug/net7.0/exercicioVolei
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/bin/Debug/net7.0/exercicioVolei.deps.json
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/bin/Debug/net7.0/exercicioVolei.runtimeconfig.json
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/bin/Debug/net7.0/exercicioVolei.dll
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/bin/Debug/net7.0/exercicioVolei.pdb
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/exercicioVolei.csproj.AssemblyReference.cache
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/exercicioVolei.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/exercicioVolei.AssemblyInfoInputs.cache
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/exercicioVolei.AssemblyInfo.cs
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/exercicioVolei.csproj.CoreCompileInputs.cache
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/exercicioVolei.dll
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/refint/exercicioVolei.dll
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/exercicioVolei.pdb
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/exercicioVolei.genruntimeconfig.cache
+/home/andre/RiderProjects/exercicioVolei/exercicioVolei/obj/Debug/net7.0/ref/exercicioVolei.dll
